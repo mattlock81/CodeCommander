@@ -14,7 +14,7 @@ This repository contains a complete learning curriculum designed specifically fo
 
 | Module | Lesson | Status | Completed | Notes |
 |--------|--------|--------|-----------|-------|
-| 01 | Variables and Types | ⬜ Not Started | - | - |
+| 01 | Variables and Types | 🔄 In Progress | - | - |
 | 02 | Functions and Parameters | ⬜ Not Started | - | - |
 | 03 | Collections - Lists | ⬜ Not Started | - | - |
 | 04 | Collections - Dictionaries | ⬜ Not Started | - | - |
@@ -83,5 +83,5 @@ The learning path culminates in building a real Jira API client that you can use
 ---
 
 **Last Updated:** 2026-01-29
-**Current Lesson:** Not started
+**Current Lesson:** 01 - Variables and Types
 **Total Time Invested:** 0 hours
